@@ -1,3 +1,9 @@
+---
+title: "Projet KeepSafe"
+author: "Nathan Verdier"
+geometry: margin=2cm
+---
+
 # KeepSafe
 
 ## Introduction
