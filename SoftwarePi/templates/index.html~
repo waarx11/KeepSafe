@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang=-"en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"content="width=device-width,initial-scale=1.0">
+    <title>Keep Safe - Bienvenue ! </title>
+    <!-- Font Awesome -->
+    <link rel="stylesheet"href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+    <!-- Google Fonts -->
+    <link rel="stylesheet" href="https:/fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap">
+    <!-- Bootstrap core CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Material Design Bootstrap -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/css/mdb.min.css" rel="stylesheet">
+    <!-- SWIPER JS CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.6/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="/home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/acceuil.css"/>
+    <link rel="stylesheet" href="/home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/live.css"/>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  
+  <script type=text/javascript>
+  $(function() {
+    $('a#units').on('click', function(e) {
+      e.preventDefault()
+      $.getJSON('/units',
+          function(data) {
+        //do nothing
+      });
+      return false;
+    });
+  });
+</script>
+  <script type=text/javascript>
+        $(function() {
+          $('a#colormap').on('click', function(e) {
+            e.preventDefault()
+            $.getJSON('/colormap',
+                function(data) {
+              //do nothing
+            });
+            return false;
+          });
+        });
+</script>
+  <script type=text/javascript>
+        $(function() {
+          $('a#colormapback').on('click', function(e) {
+            e.preventDefault()
+            $.getJSON('/colormapback',
+                function(data) {
+              //do nothing
+            });
+            return false;
+          });
+        });
+</script>
+  <script type=text/javascript>
+        $(function() {
+          $('a#filter').on('click', function(e) {
+            e.preventDefault()
+            $.getJSON('/filter',
+                function(data) {
+              //do nothing
+            });
+            return false;
+          });
+        });
+</script>
+  <script type=text/javascript>
+      $(function() {
+        $('a#interpolation').on('click', function(e) {
+          e.preventDefault()
+          $.getJSON('/interpolation',
+              function(data) {
+            //do nothing
+          });
+          return false;
+        });
+      });
+      </script>
+  <script type=text/javascript>
+      $(function() {
+        $('a#interpolationback').on('click', function(e) {
+          e.preventDefault()
+          $.getJSON('/interpolationback',
+              function(data) {
+            //do nothing
+          });
+          return false;
+        });
+      });
+</script>
+  <script type=text/javascript>
+  $(function() {
+    $('a#exit').on('click', function(e) {
+      e.preventDefault()
+      $.getJSON('/exit',
+          function(data) {
+        //do nothing
+      });
+      return false;
+    });
+  });
+</script>
+</head>
+<body>  
+
+  <!--Header here-->
+<header class="header">
+    <div class="container">
+      <nav class="navbar navbar-expand-lg ">
+        <a class="navbar-brand" href="#"><span class="color-primary">Keep</span> <span class="color-secondary">Safe</span> </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="fas fa-bars"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link active" href="/accueil">Acceuil <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/live">Live</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/galerie">Galerie</a>
+            </li>
+          </ul>
+ 
+        </div>
+      </nav>
+    </div>
+</header>
+
+ <!--/Header here-->
+
+  <!--Hero banner-->
+  <div class="col-lg-12 text-center my-3">
+    <h3 class="py-3">Live</h3>
+  </div>
+
+  <section id="hero-banner">
+    <div class="container">
+      <div class="row">
+        
+        <div class="col-md-6 ml-auto">
+          <div class="image">
+            <img style="width: 100%"src="{{ url_for('video_feed') }}" class='video'>
+          </div>
+        </div>
+        <div class="col-md-3 my-auto mr-auto">
+            <!-- Default checked -->
+            <form class="form-inline">
+
+      <a href=# id=units><button class='btn btn-theme'>Change Temp Units</button></a>
+      <a href=# id=colormapback><button class='btn btn-theme'>Previous Colormap</button></a>
+      <a href=# id=colormap><button class='btn btn-theme'>Next Colormap</button></a>
+      <a href=# id=interpolationback><button class='btn btn-theme'>Previous Interpolation</button></a>
+      <a href=# id=interpolation><button class='btn btn-theme'>Next Interpolation</button></a>
+      <a href=# id=filter><button class='btn btn-theme'>Toggle Filter</button></a>
+    </form>
+            
+        </div>
+      </div>
+    </div> 
+  </section>
+  
+
+ 
+
+<!-- Footer Here -->
+
+<footer id="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-2">
+        <h4 class="h3">Keep.Safe</h4>
+      </div>
+      <div class="col-md-2">
+        <h4 class="m-0 h6">Quicks links</h4>
+        <hr color="white">
+        <ul>
+          <li><a href="" ></a>Acceuil</li>
+          <li><a href="" ></a>Nos Services</li>
+          <li><a href="" ></a>Live</li>
+          <li><a href="" ></a>Gallerie</li>
+        </ul>
+      </div>
+      <div class="col-md-2">
+        <h4 class="m-0 h6">Location</h4>
+        <hr color="white">
+        <ul>
+          <li><a href="" ></a>Acceuil</li>
+          <li><a href="" ></a>Nos Services</li>
+          <li><a href="" ></a>Live</li>
+          <li><a href="" ></a>Gallerie</li>
+        </ul>
+      </div>
+      <div class="col-md-2">
+        <h4 class="m-0 h6">Services</h4>
+        <hr color="white">
+        <ul>
+          <li><a href="" ></a>Acceuil</li>
+          <li><a href="" ></a>Nos Services</li>
+        </ul>
+      </div>
+      <div class="col-md-2">
+        <h4 class="m-0 h6">Contact</h4>
+        <hr color="white">
+        <ul>
+          <li><a href="" ></a>+330000000</li>
+          <li><a href="" ></a>contact@keepsafe.com</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- Footer Here -->
+
+<style>
+:root{
+    --color-primary : #2289FF;
+    --color-secondary : #314862 !important;
+    --color-acent : #193F6A;
+    --font-poppin : 'Poppins', serif;
+}
+
+
+/* Custom classes */
+
+.bg-primary {
+    background-color: var(--color-primary);
+}
+
+.color-primary {
+    color: var(--color-primary);
+}
+
+.bg-secondary {
+    background-color: var(--color-secondary);
+} 
+
+.color-secondary {
+    color:var(--color-secondary) ;
+}
+
+.bg-acent {
+    background-color: var(--color-acent);
+}
+
+.color-acent {
+    color: var(--color-acent);
+
+}
+
+ /* Header style*/
+
+header.header {
+    width: 100%;
+}
+
+.header nav.navbar{
+    box-shadow: none;
+    color: var(--color-secondary);
+}
+
+.header nav.navbar .navbar-brand{
+    font-family: var(--font-poppin);
+    font-weight: 500;
+    font-size: 20px;
+    color: var(--color-secondary);
+}
+
+.header nav.navbar .nav-link {
+    color: var(--color-secondary);
+    font-family: var(--color-secondary);
+    font-weight: 500;
+    padding: 10px 20px;
+
+}
+ 
+.header nav.navbar .nav-item {
+    margin: auto;
+}
+
+.btn-theme {
+    box-shadow: none;
+    margin: 10;
+    font-family : var(--font-poppin);
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: capitalize;
+    background-color: var(--color-primary);
+    color: #ffffff;
+    padding: 8px 20px ;
+    border-radius: 20px 0px 20px 20px;
+}
+
+.btn-theme:hover {
+    background-color: var(--color-acent);
+    box-shadow: none;
+    color: #ffffff;
+}
+
+.btn-theme-2{
+    box-shadow: 0 10px 20px 0px rgb(34 137 255/52%);
+    margin: 0;
+    font-family : var(--font-poppin);
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: capitalize;
+    background-color: var(--color-primary);
+    color: #ffffff;
+    padding: 10px 30px ;
+    border-radius: 30px;
+}
+
+.btn-theme2:hover {
+    background-color: var(--color-acent);
+    box-shadow: none;
+    color: #ffffff !important;
+}
+
+.btn-play{
+    box-shadow: none;
+    margin: 0;
+    font-family : var(--font-poppin);
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: capitalize;
+    background-color: var(--color-primary);
+    color: #ffffff;
+    padding: 10px 16px ;
+    border-radius: 100%;
+    transition: 0.5s ease;
+}
+
+.btn-play:hover {
+    background-color: var(--color-acent);
+    box-shadow: none;
+    color: #ffffff;
+}
+
+
+.header .navbar .nav-link:hover,
+.header .navbar .nav-link:active{
+    color: var(--color-primary);
+}
+/* The switch - the box around the slider */
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+  }
+  
+  /* Hide default HTML checkbox */
+  .switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+  
+  /* The slider */
+  .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  .slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  input:checked + .slider {
+    background-color: #2196F3;
+  }
+  
+  input:focus + .slider {
+    box-shadow: 0 0 1px #2196F3;
+  }
+  
+  input:checked + .slider:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+  }
+  
+  /* Rounded sliders */
+  .slider.round {
+    border-radius: 34px;
+  }
+  
+  .slider.round:before {
+    border-radius: 50%;
+  }
+
+  .titres {
+    margin-left: 20px;
+    font-family: var(--font-poppin);
+    font-weight: 400;
+    color: rgb(21, 21, 21);
+    font-size: medium;
+  }
+
+  .bouton{
+    margin-bottom:  20px;
+  }
+
+  .btn-lg{
+    border-radius: 20px 0px 20px 20px;
+  }
+
+.py-3{
+    font-weight: 500;
+    color: rgb(66, 66, 66);
+    font-size: 50px;
+}
+
+#hero-banner{
+    padding: 80px 0 150px 0px !important;
+}
+/* footer */
+
+footer {
+    width: 100%;
+    padding: 50px 0;
+    background-color: var(--color-primary);
+    color: white;
+    font-family: var(--font-poppin);
+    border-radius: 100px 0 0 0;
+}
+
+
+
+footer ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+footer ul li a{
+    color: white;
+    font-size: 13px;
+}
+
+footer ul li a :hover{
+    opacity: 0.7;
+    color: white;
+
+}
+</style>
+
+</body>
+</html>
+<!--JQuery--> 
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<!--Bootstrap tooltips--> 
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popperjs/1.14.4/umd/popper.min.is"></script>
+<!--Bootstrap core JavaScript--> 
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.min.js"></script>
+<!--MDB core JavaScript -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/js/mdb.min.js"></script>
+<!-- Swiper -->
+<script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>

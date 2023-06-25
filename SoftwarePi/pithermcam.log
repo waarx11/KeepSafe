@@ -1,0 +1,212 @@
+<img src="pic_CroppedThermique.jpg" alt="" />18-Jan-23 17:10:16 INFO     [_internal.py:werkzeug:113]  * Running on http://192.168.214.216:8000/ (Press CTRL+C to quit)
+18-Jan-23 17:10:31 INFO     [_internal.py:werkzeug:113]  * Running on http://192.168.214.216:8000/ (Press CTRL+C to quit)
+18-Jan-23 17:10:46 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:10:46] "[37mGET / HTTP/1.1[0m" 200 -
+18-Jan-23 17:10:46 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:10:46] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 17:10:47 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:10:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+18-Jan-23 17:10:49 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:10:49] "[37mGET / HTTP/1.1[0m" 200 -
+18-Jan-23 17:10:50 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:10:50] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 17:10:58 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:10:58] "[37mGET /colormap HTTP/1.1[0m" 200 -
+18-Jan-23 17:10:59 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:10:59] "[37mGET /colormap HTTP/1.1[0m" 200 -
+18-Jan-23 17:11:00 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:11:00] "[37mGET /colormap HTTP/1.1[0m" 200 -
+18-Jan-23 17:11:01 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:11:01] "[37mGET /interpolation HTTP/1.1[0m" 200 -
+18-Jan-23 17:11:02 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:11:02] "[37mGET /interpolation HTTP/1.1[0m" 200 -
+18-Jan-23 17:11:02 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:11:02] "[37mGET /interpolation HTTP/1.1[0m" 200 -
+18-Jan-23 17:13:09 INFO     [_internal.py:werkzeug:113]  * Running on http://192.168.214.216:8000/ (Press CTRL+C to quit)
+18-Jan-23 17:13:30 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:13:30] "[37mGET / HTTP/1.1[0m" 200 -
+18-Jan-23 17:13:30 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:13:30] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 17:14:29 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:14:29] "[37mGET / HTTP/1.1[0m" 200 -
+18-Jan-23 17:14:30 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:14:30] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 17:15:01 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:15:01] "[37mGET / HTTP/1.1[0m" 200 -
+18-Jan-23 17:15:01 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:15:01] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 17:15:16 INFO     [_internal.py:werkzeug:113]  * Running on http://192.168.214.216:8000/ (Press CTRL+C to quit)
+18-Jan-23 17:15:33 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:15:33] "[37mGET / HTTP/1.1[0m" 200 -
+18-Jan-23 17:15:33 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:15:33] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 17:15:34 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:15:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+18-Jan-23 17:17:43 INFO     [_internal.py:werkzeug:113]  * Running on http://192.168.214.216:8000/ (Press CTRL+C to quit)
+18-Jan-23 17:17:54 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:17:54] "[37mGET / HTTP/1.1[0m" 200 -
+18-Jan-23 17:17:54 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:17:54] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 17:18:52 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:18:52] "[37mGET / HTTP/1.1[0m" 200 -
+18-Jan-23 17:18:53 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:18:53] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 17:19:09 INFO     [_internal.py:werkzeug:113]  * Running on http://192.168.214.216:8000/ (Press CTRL+C to quit)
+18-Jan-23 17:19:29 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:19:29] "[37mGET / HTTP/1.1[0m" 200 -
+18-Jan-23 17:19:29 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:19:29] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 17:19:30 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:19:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+18-Jan-23 17:20:38 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:20:38] "[37mGET /colormap HTTP/1.1[0m" 200 -
+18-Jan-23 17:20:56 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:20:56] "[37mGET /colormap HTTP/1.1[0m" 200 -
+18-Jan-23 17:20:58 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:20:58] "[37mGET /colormap HTTP/1.1[0m" 200 -
+18-Jan-23 17:21:02 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:21:02] "[37mGET /colormap HTTP/1.1[0m" 200 -
+18-Jan-23 17:21:06 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:21:06] "[37mGET /colormapback HTTP/1.1[0m" 200 -
+18-Jan-23 17:21:08 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:21:08] "[37mGET /colormapback HTTP/1.1[0m" 200 -
+18-Jan-23 17:21:09 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:21:09] "[37mGET /colormapback HTTP/1.1[0m" 200 -
+18-Jan-23 17:21:11 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:21:11] "[37mGET /colormapback HTTP/1.1[0m" 200 -
+18-Jan-23 17:21:18 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 17:21:18] "[37mGET /interpolation HTTP/1.1[0m" 200 -
+18-Jan-23 18:03:15 INFO     [_internal.py:werkzeug:113]  * Running on http://192.168.214.216:8000/ (Press CTRL+C to quit)
+18-Jan-23 18:03:25 INFO     [_internal.py:werkzeug:113]  * Running on http://192.168.214.216:8000/ (Press CTRL+C to quit)
+18-Jan-23 18:03:38 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:03:38] "[37mGET / HTTP/1.1[0m" 200 -
+18-Jan-23 18:03:39 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:03:39] "[33mGET /acceuil.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:03:39 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:03:39] "[33mGET /live.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:03:40 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:03:40] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 18:03:43 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:03:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+18-Jan-23 18:03:49 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:03:49] "[37mGET /colormap HTTP/1.1[0m" 200 -
+18-Jan-23 18:04:31 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:04:31] "[37mGET / HTTP/1.1[0m" 200 -
+18-Jan-23 18:04:32 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:04:32] "[33mGET /acceuil.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:04:32 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:04:32] "[33mGET /live.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:04:32 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:04:32] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 18:07:55 INFO     [_internal.py:werkzeug:113]  * Running on http://192.168.214.216:8000/ (Press CTRL+C to quit)
+18-Jan-23 18:07:59 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:07:59] "[37mGET / HTTP/1.1[0m" 200 -
+18-Jan-23 18:08:00 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:08:00] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/acceuil.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:08:00 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:08:00] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/live.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:08:01 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:08:01] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 18:09:49 INFO     [_internal.py:werkzeug:113]  * Running on http://192.168.214.216:8000/ (Press CTRL+C to quit)
+18-Jan-23 18:13:02 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:13:02] "[37mGET / HTTP/1.1[0m" 200 -
+18-Jan-23 18:13:02 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:13:02] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/acceuil.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:13:02 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:13:02] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/live.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:13:03 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:13:03] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 18:13:41 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:13:41] "[37mGET / HTTP/1.1[0m" 200 -
+18-Jan-23 18:13:41 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:13:41] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/acceuil.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:13:41 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:13:41] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/live.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:13:42 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:13:42] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 18:14:05 INFO     [_internal.py:werkzeug:113]  * Running on http://192.168.214.216:8000/ (Press CTRL+C to quit)
+18-Jan-23 18:14:11 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:14:11] "[37mGET / HTTP/1.1[0m" 200 -
+18-Jan-23 18:14:12 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:14:12] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/acceuil.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:14:12 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:14:12] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/live.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:14:12 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:14:12] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 18:14:51 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:14:51] "[37mGET / HTTP/1.1[0m" 200 -
+18-Jan-23 18:14:51 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:14:51] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/acceuil.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:14:51 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:14:51] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/live.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:14:51 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:14:51] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 18:14:53 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:14:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+18-Jan-23 18:15:09 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:15:09] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/acceuil.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:15:09 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:15:09] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/live.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:15:33 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:15:33] "[37mGET / HTTP/1.1[0m" 200 -
+18-Jan-23 18:15:36 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:15:36] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/live.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:15:36 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:15:36] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/acceuil.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:15:36 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:15:36] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 18:15:42 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:15:42] "[33mGET /galerie.html HTTP/1.1[0m" 404 -
+18-Jan-23 18:15:45 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:15:45] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 18:18:01 INFO     [_internal.py:werkzeug:113]  * Running on http://192.168.214.216:8000/ (Press CTRL+C to quit)
+18-Jan-23 18:18:03 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:18:03] "[37mGET / HTTP/1.1[0m" 200 -
+18-Jan-23 18:18:03 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:18:03] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/acceuil.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:18:03 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:18:03] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/live.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:18:36 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:18:36] "[37mGET / HTTP/1.1[0m" 200 -
+18-Jan-23 18:18:36 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:18:36] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/acceuil.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:18:36 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:18:36] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/live.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:18:37 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:18:37] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 18:19:02 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:19:02] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/acceuil.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:19:02 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:19:02] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/live.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:25:53 INFO     [_internal.py:werkzeug:113]  * Running on http://192.168.214.216:8000/ (Press CTRL+C to quit)
+18-Jan-23 18:25:58 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:25:58] "[37mGET / HTTP/1.1[0m" 200 -
+18-Jan-23 18:25:59 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:25:59] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/live.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:25:59 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:25:59] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/acceuil.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:26:02 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:26:02] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 18:29:26 INFO     [_internal.py:werkzeug:113]  * Running on http://192.168.214.216:8000/ (Press CTRL+C to quit)
+18-Jan-23 18:29:32 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:29:32] "[37mGET / HTTP/1.1[0m" 200 -
+18-Jan-23 18:29:33 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:29:33] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/acceuil.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:29:33 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:29:33] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/live.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:29:33 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:29:33] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 18:31:39 INFO     [_internal.py:werkzeug:113]  * Running on http://192.168.214.216:8000/ (Press CTRL+C to quit)
+18-Jan-23 18:31:42 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:31:42] "[37mGET / HTTP/1.1[0m" 200 -
+18-Jan-23 18:31:42 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:31:42] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/acceuil.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:31:42 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:31:42] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/live.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:31:42 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:31:42] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 18:32:44 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:32:44] "[37mGET /units HTTP/1.1[0m" 200 -
+18-Jan-23 18:32:50 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:32:50] "[37mGET /colormap HTTP/1.1[0m" 200 -
+18-Jan-23 18:34:23 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:34:23] "[37mGET /filter HTTP/1.1[0m" 200 -
+18-Jan-23 18:34:36 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:34:36] "[37mGET /colormapback HTTP/1.1[0m" 200 -
+18-Jan-23 18:35:44 INFO     [_internal.py:werkzeug:113] 192.168.214.216 - - [18/Jan/2023 18:35:44] "[37mGET /colormapback HTTP/1.1[0m" 200 -
+18-Jan-23 18:38:45 INFO     [_internal.py:werkzeug:113]  * Running on http://192.168.214.216:8000/ (Press CTRL+C to quit)
+18-Jan-23 18:39:46 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:39:46] "[37mGET / HTTP/1.1[0m" 200 -
+18-Jan-23 18:39:46 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:39:46] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/acceuil.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:39:46 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:39:46] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/live.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:39:46 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:39:46] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 18:39:54 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:39:54] "[33mGET /acceuil.html HTTP/1.1[0m" 404 -
+18-Jan-23 18:40:16 INFO     [_internal.py:werkzeug:113]  * Running on http://192.168.214.216:8000/ (Press CTRL+C to quit)
+18-Jan-23 18:40:22 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:40:22] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 18:40:25 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:40:25] "[33mGET /acceuil.html HTTP/1.1[0m" 404 -
+18-Jan-23 18:42:27 INFO     [_internal.py:werkzeug:113]  * Running on http://192.168.214.216:8000/ (Press CTRL+C to quit)
+18-Jan-23 18:42:29 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:42:29] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 18:42:38 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:42:38] "[33mGET /acceuil.html HTTP/1.1[0m" 404 -
+18-Jan-23 18:42:41 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:42:41] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 18:42:52 INFO     [_internal.py:werkzeug:113]  * Running on http://192.168.214.216:8000/ (Press CTRL+C to quit)
+18-Jan-23 18:43:00 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:43:00] "[37mGET / HTTP/1.1[0m" 200 -
+18-Jan-23 18:43:00 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:43:00] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/acceuil.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:43:00 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:43:00] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/live.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:43:00 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:43:00] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 18:43:03 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:43:03] "[33mGET /192.168.214.206 HTTP/1.1[0m" 404 -
+18-Jan-23 18:44:11 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:44:11] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 18:44:19 INFO     [_internal.py:werkzeug:113]  * Running on http://192.168.214.216:8000/ (Press CTRL+C to quit)
+18-Jan-23 18:44:24 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:44:24] "[37mGET / HTTP/1.1[0m" 200 -
+18-Jan-23 18:44:24 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:44:24] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/acceuil.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:44:24 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:44:24] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/live.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:44:24 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:44:24] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 18:44:27 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:44:27] "[33mGET /http:://192.168.214.206 HTTP/1.1[0m" 404 -
+18-Jan-23 18:44:38 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:44:38] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 18:49:43 INFO     [_internal.py:werkzeug:113]  * Running on http://192.168.214.216:8000/ (Press CTRL+C to quit)
+18-Jan-23 18:49:47 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:49:47] "[37mGET / HTTP/1.1[0m" 200 -
+18-Jan-23 18:49:47 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:49:47] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/live.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:49:47 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:49:47] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/acceuil.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:49:47 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:49:47] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 18:49:49 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:49:49] "[33mGET /acceuil HTTP/1.1[0m" 404 -
+18-Jan-23 18:50:57 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:50:57] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 18:51:05 INFO     [_internal.py:werkzeug:113]  * Running on http://192.168.214.216:8000/ (Press CTRL+C to quit)
+18-Jan-23 18:51:11 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:51:11] "[37mGET / HTTP/1.1[0m" 200 -
+18-Jan-23 18:51:11 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:51:11] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/acceuil.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:51:11 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:51:11] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/live.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:51:11 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:51:11] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 18:51:14 ERROR    [app.py:web_server:1891] Exception on /accueil [GET]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/pi4/sae/2022_KeepSafe/SoftwarePi/web_server.py", line 41, in accueil
+    return redirect(ipServeur)
+NameError: name 'redirect' is not defined
+18-Jan-23 18:51:14 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:51:14] "[35m[1mGET /accueil HTTP/1.1[0m" 500 -
+18-Jan-23 18:52:28 INFO     [_internal.py:werkzeug:113]  * Running on http://192.168.214.216:8000/ (Press CTRL+C to quit)
+18-Jan-23 18:52:33 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:52:33] "[37mGET / HTTP/1.1[0m" 200 -
+18-Jan-23 18:52:33 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:52:33] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/live.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:52:33 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:52:33] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/acceuil.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:52:33 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:52:33] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 18:52:35 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:52:35] "[32mGET /accueil HTTP/1.1[0m" 302 -
+18-Jan-23 18:58:39 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:58:39] "[37mGET / HTTP/1.1[0m" 200 -
+18-Jan-23 18:58:39 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:58:39] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/live.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:58:39 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:58:39] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/acceuil.css HTTP/1.1[0m" 404 -
+18-Jan-23 18:58:39 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:58:39] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 18:58:43 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:58:43] "[33mGET /http:://192.168.214.206/live HTTP/1.1[0m" 404 -
+18-Jan-23 18:58:55 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:58:55] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 18:58:56 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:58:56] "[33mGET /http:://192.168.214.206/galerie HTTP/1.1[0m" 404 -
+18-Jan-23 18:59:00 INFO     [_internal.py:werkzeug:113] 192.168.214.206 - - [18/Jan/2023 18:59:00] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 18:59:11 INFO     [_internal.py:werkzeug:113]  * Running on http://192.168.214.216:8000/ (Press CTRL+C to quit)
+18-Jan-23 18:59:35 INFO     [_internal.py:werkzeug:113]  * Running on http://192.168.214.216:8000/ (Press CTRL+C to quit)
+18-Jan-23 19:01:24 INFO     [_internal.py:werkzeug:113] 192.168.214.148 - - [18/Jan/2023 19:01:24] "[37mGET / HTTP/1.1[0m" 200 -
+18-Jan-23 19:01:25 INFO     [_internal.py:werkzeug:113] 192.168.214.148 - - [18/Jan/2023 19:01:25] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/acceuil.css HTTP/1.1[0m" 404 -
+18-Jan-23 19:01:25 INFO     [_internal.py:werkzeug:113] 192.168.214.148 - - [18/Jan/2023 19:01:25] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/live.css HTTP/1.1[0m" 404 -
+18-Jan-23 19:01:25 INFO     [_internal.py:werkzeug:113] 192.168.214.148 - - [18/Jan/2023 19:01:25] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 19:01:26 INFO     [_internal.py:werkzeug:113] 192.168.214.148 - - [18/Jan/2023 19:01:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+18-Jan-23 19:01:41 INFO     [_internal.py:werkzeug:113] 192.168.214.148 - - [18/Jan/2023 19:01:41] "[32mGET /live HTTP/1.1[0m" 302 -
+18-Jan-23 19:01:51 INFO     [_internal.py:werkzeug:113] 192.168.214.148 - - [18/Jan/2023 19:01:51] "[37mGET / HTTP/1.1[0m" 200 -
+18-Jan-23 19:01:51 INFO     [_internal.py:werkzeug:113] 192.168.214.148 - - [18/Jan/2023 19:01:51] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/acceuil.css HTTP/1.1[0m" 404 -
+18-Jan-23 19:01:51 INFO     [_internal.py:werkzeug:113] 192.168.214.148 - - [18/Jan/2023 19:01:51] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/live.css HTTP/1.1[0m" 404 -
+18-Jan-23 19:01:52 INFO     [_internal.py:werkzeug:113] 192.168.214.148 - - [18/Jan/2023 19:01:52] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 19:01:53 INFO     [_internal.py:werkzeug:113] 192.168.214.148 - - [18/Jan/2023 19:01:53] "[32mGET /galerie HTTP/1.1[0m" 302 -
+18-Jan-23 19:02:30 INFO     [_internal.py:werkzeug:113] 192.168.214.148 - - [18/Jan/2023 19:02:30] "[37mGET / HTTP/1.1[0m" 200 -
+18-Jan-23 19:02:30 INFO     [_internal.py:werkzeug:113] 192.168.214.148 - - [18/Jan/2023 19:02:30] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/acceuil.css HTTP/1.1[0m" 404 -
+18-Jan-23 19:02:30 INFO     [_internal.py:werkzeug:113] 192.168.214.148 - - [18/Jan/2023 19:02:30] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/live.css HTTP/1.1[0m" 404 -
+18-Jan-23 19:02:30 INFO     [_internal.py:werkzeug:113] 192.168.214.148 - - [18/Jan/2023 19:02:30] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 19:02:46 INFO     [_internal.py:werkzeug:113] 192.168.214.148 - - [18/Jan/2023 19:02:46] "[32mGET /galerie HTTP/1.1[0m" 302 -
+18-Jan-23 19:04:18 INFO     [_internal.py:werkzeug:113]  * Running on http://192.168.214.216:8000/ (Press CTRL+C to quit)
+18-Jan-23 19:04:18 INFO     [_internal.py:werkzeug:113] 192.168.214.148 - - [18/Jan/2023 19:04:18] "[37mGET / HTTP/1.1[0m" 200 -
+18-Jan-23 19:04:19 INFO     [_internal.py:werkzeug:113] 192.168.214.148 - - [18/Jan/2023 19:04:19] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/acceuil.css HTTP/1.1[0m" 404 -
+18-Jan-23 19:04:19 INFO     [_internal.py:werkzeug:113] 192.168.214.148 - - [18/Jan/2023 19:04:19] "[33mGET /home/pi4/sae/2022_KeepSafe/SoftwarePi/templates/live.css HTTP/1.1[0m" 404 -
+18-Jan-23 19:04:19 INFO     [_internal.py:werkzeug:113] 192.168.214.148 - - [18/Jan/2023 19:04:19] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+18-Jan-23 19:04:26 INFO     [_internal.py:werkzeug:113]  * Running on http://192.168.214.216:8000/ (Press CTRL+C to quit)
+18-Jan-23 19:04:32 INFO     [_internal.py:werkzeug:113] 192.168.214.148 - - [18/Jan/2023 19:04:32] "[32mGET /galerie HTTP/1.1[0m" 302 -
